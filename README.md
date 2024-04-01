@@ -4,7 +4,8 @@ Through the course of ZyberTech's 3-month Data Bootcamp, I have developed key sk
 
 Note: Please download the .HTML version to view my code from Databricks, along with the data frames. Please feel free to import the notebook for your data analysis. My data model focuses on the order level granularity. For future exploration, an analysis can be done on product and seller information.
 
-![alt text](https://drive.google.com/file/d/1geiESAD_3t0L2Az3KSNllyhfB_gwz1XO/view)
+![alt text](https://drive.google.com/file/d/1geiESAD_3t0L2Az3KSNllyhfB_gwz1XO/view?usp=sharing)
+
 
 
 
