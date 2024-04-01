@@ -12,7 +12,7 @@ Through ZyberTech's 3-month Data Bootcamp, I have developed key skills in cloud 
 - Logic Apps
 - Virtual Machines
 - Resource Group
-- 
+  
 I have acquired knowledge and applied ETL pipelines, developed data models, and practiced my knowledge of SQL and Python. Additionally, I am confident in discussing cloud concepts and understanding the power of cloud computing. Through my project, I also learned a little Scala for my calendar dimension table.
 
 Note: Please download the .HTML version to view my code from Databricks, along with the data frames. Please feel free to import the notebook for your data analysis. My data model focuses on the order level granularity. For future exploration, an analysis can be done on product and seller information.
